@@ -109,92 +109,30 @@ At this page, the user can see his neighbor profile page, and they can chat with
 
 # stuff preview page:
 At this page, the user can order the stuff, chat with his neighbor, get directed to the stuff location.
-
-
-
+![image](https://user-images.githubusercontent.com/15262648/37875485-e97b17b2-3048-11e8-9984-16a4d7491d13.png)
 
 At this section, the user can get directed to the stuff location.
+![image](https://user-images.githubusercontent.com/15262648/37875485-e97b17b2-3048-11e8-9984-16a4d7491d13.png) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	4.1.1.17 thanks, page:
+# thanks, page:
 This page is previewed when the user requests stuff:
+![image](https://user-images.githubusercontent.com/15262648/37875486-ee18e0e2-3048-11e8-865a-10a8259b9b84.png)
 
 
+# Mobile Application:
 
-
-
-
-
-
-
-
-
-
-
-
-
-4.2 Mobile Application:
-
-4.2.1 Sign in and home pages: 
+## Sign in and home pages: 
 In the mobile app, the user needs to sign in to access the services that the app provides. When the user enters email and password automatically he will be redirected to home page. By default, home page shows the random stuff and skills around the user. Also, he can choose the categories of stuff and skills around him.
-
-                                                               
-   
-
+![image](https://user-images.githubusercontent.com/15262648/37875508-43e26c82-3049-11e8-9621-c45f961fd80e.png)
+![image](https://user-images.githubusercontent.com/15262648/37875509-474aa9e8-3049-11e8-903c-a811ab9c7736.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-4.2.2 Add stuff and skill pages: 
+## Add stuff and skill pages: 
 
  If the user wants to add new stuff or skill.He can go to add a page by side menu. 
-
-
 The user can choose from the tab (stuff or skill).If the user chooses stuff then he must fill the following fields name, category, type (returned or unreturned stuff), deadline date if it is returned, details f about it and photo which is either from camera or gallery.  
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/15262648/37875518-4c035160-3049-11e8-9093-4d1362d98bcb.png)
+![image](https://user-images.githubusercontent.com/15262648/37875520-4f00014c-3049-11e8-9912-cc7424dc1b76.png)
 
 Another tab choice is “skill”, the user on this page must fill the following fields skill’s name, category, free time (days in week and time) and description.
-
-                       
+![image](https://user-images.githubusercontent.com/15262648/37875522-56c31b26-3049-11e8-8f74-e7cc2a061f7b.png)          
