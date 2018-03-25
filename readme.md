@@ -1,16 +1,16 @@
-## Website pages:
+# Website pages:
 This page is viewed when a new user visits the website:
 ![image](https://user-images.githubusercontent.com/15262648/37873693-91ae0fbc-302a-11e8-992c-0e9e1cb9c2a4.png)
 
-## Register page:
+# Register page:
 In this page the user register in our website after typing the required information, the user enters his home location on the map and he can drag the marker exactly to his location on the map and the app will pick his location automatically. 
 ![image](https://user-images.githubusercontent.com/15262648/37873695-95f727b6-302a-11e8-8e83-e4f72ef60892.png)
 
-## Login page:
+# Login page:
 The login page is used to authenticate the user to his profile after typing the email and password:
 ![image](https://user-images.githubusercontent.com/15262648/37873696-989c287c-302a-11e8-94fb-d722ddb0e443.png)
 
-## Home page:
+# Home page:
 
 This page contains a map that show markers for everyone around the user 
 ![image](https://user-images.githubusercontent.com/15262648/37873698-9b3a5914-302a-11e8-9463-7ba5ce72f660.png)
@@ -33,54 +33,52 @@ We view the basic information name, free times.
 Everything is categorized and the user just clicks in the category to view everything inside it:  
 ![image](https://user-images.githubusercontent.com/15262648/37873835-cd723562-302c-11e8-897e-46d8f614f252.png)
 
-## Categories page:
+# Categories page:
 
 In this page we view the categories:
 
-# DVDs:
+### DVDs:
 ![image](https://user-images.githubusercontent.com/15262648/37873874-85d6837e-302d-11e8-9461-c93a6be3cfea.png)
 
-# Sports:
+### Sports:
 ![image](https://user-images.githubusercontent.com/15262648/37873876-8f87e5de-302d-11e8-9ff7-8796a836ace6.png)
 
-# Books:
+### Books:
 ![image](https://user-images.githubusercontent.com/15262648/37873879-97aec408-302d-11e8-8432-6880fc615da0.png)
 
 
-## Add stuff page:
+# Add stuff page:
 At this page the user can add stuff to his neighbors:
 ![image](https://user-images.githubusercontent.com/15262648/37873882-a11bf0b0-302d-11e8-8621-0e4c8af3e891.png)
 
-## Add skill page:
+# Add skill page:
 At this page the user adds skills to share them with his neighbors: 
 ![image](https://user-images.githubusercontent.com/15262648/37873885-a7c66864-302d-11e8-891e-1611275cb11c.png)
 
-## Pick needs page:   
+# Pick needs page:   
 At this page the user can tell his neighbors that he wants a stuff:
 ![image](https://user-images.githubusercontent.com/15262648/37873887-aef550e6-302d-11e8-97ae-61f7257093da.png)
 
-## Request skills page:   
+# Request skills page:   
 At this page the user can request skills from his neighbors:
 ![image](https://user-images.githubusercontent.com/15262648/37873889-b7e74952-302d-11e8-8997-41e7b1250f1b.png)
 
-## Profile page: 
+# Profile page: 
 At this page, we view all data related to the user, profile info, uploads, notifications and the user can add a profile picture and cover picture.
+![image](https://user-images.githubusercontent.com/15262648/37873907-2b469ace-302e-11e8-8311-06533d8ca6d5.png)
 
-
-## Profile info page:
+# Profile info page:
 At this page, we view the profile info and the user can edit his info
-
+![image](https://user-images.githubusercontent.com/15262648/37873909-31a1a896-302e-11e8-9b9f-efabf78f4f07.png)
 
 Here the user can edit his profile and submit changes:
+![image](https://user-images.githubusercontent.com/15262648/37873914-391094ac-302e-11e8-8358-4f09df6dedaa.png)
 
-
-
-## user uploads page:
+# user uploads page:
 At this page, the user can see his uploads and the orders from his neighbors. 
- 
+![image](https://user-images.githubusercontent.com/15262648/37873916-413a8f0c-302e-11e8-9afb-328d4bf61f4d.png)
 
-
-## notifications page:
+# notifications page:
 At this page the user can see his notifications:
 A notification is sanded to the user in the following cases:
 1-If someone accepted his request.
@@ -88,21 +86,9 @@ A notification is sanded to the user in the following cases:
 3-If someone around him requests a stuff.
 
 We used real-time notification system using Redis. 
+![image](https://user-images.githubusercontent.com/15262648/37873919-47ff0296-302e-11e8-8ac9-f9f8da5ab77f.png)
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-4.1.1.13 user-stuff page:
+# user-stuff page:
 At this page, the user can update stuff info, approve users to get this stuff.
 
 When the user clicks update this window is appear, so he can update stuff information:
