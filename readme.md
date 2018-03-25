@@ -37,63 +37,37 @@ Everything is categorized and the user just clicks in the category to view every
 
 In this page we view the categories:
 
-DVDs:
+# DVDs:
+![image](https://user-images.githubusercontent.com/15262648/37873874-85d6837e-302d-11e8-9461-c93a6be3cfea.png)
+
+# Sports:
+![image](https://user-images.githubusercontent.com/15262648/37873876-8f87e5de-302d-11e8-9ff7-8796a836ace6.png)
+
+# Books:
+![image](https://user-images.githubusercontent.com/15262648/37873879-97aec408-302d-11e8-8432-6880fc615da0.png)
 
 
+## Add stuff page:
+At this page the user can add stuff to his neighbors:
+![image](https://user-images.githubusercontent.com/15262648/37873882-a11bf0b0-302d-11e8-8621-0e4c8af3e891.png)
 
-Sports:
+## Add skill page:
+At this page the user adds skills to share them with his neighbors: 
+![image](https://user-images.githubusercontent.com/15262648/37873885-a7c66864-302d-11e8-891e-1611275cb11c.png)
 
+## Pick needs page:   
+At this page the user can tell his neighbors that he wants a stuff:
+![image](https://user-images.githubusercontent.com/15262648/37873887-aef550e6-302d-11e8-97ae-61f7257093da.png)
 
+## Request skills page:   
+At this page the user can request skills from his neighbors:
+![image](https://user-images.githubusercontent.com/15262648/37873889-b7e74952-302d-11e8-8997-41e7b1250f1b.png)
 
-
-
-
-Books:
-
-
-
-4.1.1.6 Add stuff page:
-     At this page the user can add stuff to his neighbors:
-
-
-
-
-
-
-
-4.1.1.7 Add skill page:
-     At this page the user adds skills to share them with his neighbors: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4.1.1.7 Pick needs page:   
-     
-      At this page the user can tell his neighbors that he wants a stuff:
-
-
-
-4.1.1.8 Request skills page:   
-
-     At this page the user can request skills from his neighbors:
-
-
-4.1.1.9 Profile page: 
-
+## Profile page: 
 At this page, we view all data related to the user, profile info, uploads, notifications and the user can add a profile picture and cover picture.
-    
 
-4.1.1.10 Profile info page:
+
+## Profile info page:
 At this page, we view the profile info and the user can edit his info
 
 
@@ -101,12 +75,12 @@ Here the user can edit his profile and submit changes:
 
 
 
-4.1.1.11 user uploads page:
+## user uploads page:
 At this page, the user can see his uploads and the orders from his neighbors. 
  
 
 
-4.1.1.12 notifications page:
+## notifications page:
 At this page the user can see his notifications:
 A notification is sanded to the user in the following cases:
 1-If someone accepted his request.
