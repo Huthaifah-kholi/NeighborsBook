@@ -1,16 +1,3 @@
-We started collecting the requirements of our project then we started with designing our system and determining the tools that will be used and after that, we designed our application database and then we start downloading laravel dependencies like composer and wamp server.
-
-Then after everything is installed correctly we downloaded our laravel app using composer by typing the following command: laravel new project via windows cmd.
-    
-
-Then after downloading laravel app, we run laravel using the following command:
-“php artisan serve”
-
-
-
-Then we configure our environment variables like database name and password
-	
-            
 ## Website pages:
 This page is viewed when a new user visits the website:
 ![image](https://user-images.githubusercontent.com/15262648/37873693-91ae0fbc-302a-11e8-992c-0e9e1cb9c2a4.png)
