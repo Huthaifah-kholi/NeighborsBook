@@ -13,23 +13,24 @@ Then we configure our environment variables like database name and password
             
 ## Website pages:
 
-![image](https://user-images.githubusercontent.com/15262648/37873693-91ae0fbc-302a-11e8-992c-0e9e1cb9c2a4.png)
 
 This page is viewed when a new user visits the website:
+![image](https://user-images.githubusercontent.com/15262648/37873693-91ae0fbc-302a-11e8-992c-0e9e1cb9c2a4.png)
+
 
  
 
 ## Register page:
 
-      In this page the user register in our website after typing the required information, the user enters his home location on the map and he can drag the marker exactly to his location on the map and the app will pick his location automatically. 
+In this page the user register in our website after typing the required information, the user enters his home location on the map and he can drag the marker exactly to his location on the map and the app will pick his location automatically. 
 
 ![image](https://user-images.githubusercontent.com/15262648/37873695-95f727b6-302a-11e8-8e83-e4f72ef60892.png)
 
 
 
-4.1.1.3 Login page:
+## Login page:
 
-     The login page is used to authenticate the user to his profile after typing the email and password:
+The login page is used to authenticate the user to his profile after typing the email and password:
 
 ![image](https://user-images.githubusercontent.com/15262648/37873696-989c287c-302a-11e8-94fb-d722ddb0e443.png)
 
