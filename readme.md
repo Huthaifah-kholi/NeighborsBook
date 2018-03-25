@@ -16,49 +16,25 @@ This page contains a map that show markers for everyone around the user
 ![image](https://user-images.githubusercontent.com/15262648/37873698-9b3a5914-302a-11e8-9463-7ba5ce72f660.png)
 
 The user can click on the marker to view the status of his neighbor:
-
-
+![image](https://user-images.githubusercontent.com/15262648/37873699-9e3ec12c-302a-11e8-9df3-5a78b84a91ed.png)
 
 Also, he can see the returned and unreturned stuff around him:
 Basic information about stuff is viewed as the name of the stuff, owner name, type, and distance. 
+ ![image](https://user-images.githubusercontent.com/15262648/37873831-be7a1106-302c-11e8-9f85-f0159b2de55c.png)
  
-![image](https://user-images.githubusercontent.com/15262648/37873699-9e3ec12c-302a-11e8-9df3-5a78b84a91ed.png)
-
-
-
-
-
 
 He can also see the skills around him:
+![image](https://user-images.githubusercontent.com/15262648/37873833-c664e7c4-302c-11e8-8e10-4e5f449c176c.png)
 
 We view the basic information name, free times.  
- 
+![image](https://user-images.githubusercontent.com/15262648/37873834-c990ca26-302c-11e8-8ea3-651a4db93658.png)
 
 Everything is categorized and the user just clicks in the category to view everything inside it:  
+![image](https://user-images.githubusercontent.com/15262648/37873835-cd723562-302c-11e8-897e-46d8f614f252.png)
 
+## Categories page:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4.1.1.5 Categories page:
-
-    In this page we view the categories:
+In this page we view the categories:
 
 DVDs:
 
