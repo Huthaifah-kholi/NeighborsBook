@@ -21,7 +21,8 @@ The user can click on the marker to view the status of his neighbor:
 Also, he can see the returned and unreturned stuff around him:
 Basic information about stuff is viewed as the name of the stuff, owner name, type, and distance. 
  ![image](https://user-images.githubusercontent.com/15262648/37873831-be7a1106-302c-11e8-9f85-f0159b2de55c.png)
- 
+
+![image](https://user-images.githubusercontent.com/15262648/37873859-3daa29b6-302d-11e8-9b20-c430fbe6f5fc.png)
 
 He can also see the skills around him:
 ![image](https://user-images.githubusercontent.com/15262648/37873833-c664e7c4-302c-11e8-8e10-4e5f449c176c.png)
