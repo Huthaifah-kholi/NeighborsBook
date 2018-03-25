@@ -1,15 +1,15 @@
 Our life now is changing rapidly, the technologies enter all aspects of our life, social media websites changes our daily life, all this encouraged us to think about an application that helps people around the world, and finally we decided to build our application NeighborsBook.
 
-The importance of our project appears from the daily life of all humans, by using NeighborsBook you don’t need any more to buy most of things you need! Also easily you can find technicians, engineers, teachers around you! NeighborsBook makes this easier. 
+The importance of our project appears from the daily life of all humans, by using NeighborsBook you don’t need any more to buy most of things you need! Also easily you can find technicians, engineers, teachers around you! NeighborsBook makes this easier.  <br> 
   
-The main features of this project are:
-A user has an account in our application can do the following:  
-•	Find most of products around him that his neighbors published.
-•	Find technicians, engineers, teachers around him easily.
-•	Request any product he want around him.
-•	Request any skill he want around him.
-•	NeighborsBook will be as mediator between users.
-•	Every user will have a map that shows peoples, products he want around him.
+The main features of this project are: <br> 
+A user has an account in our application can do the following: <br> 
+•	Find most of products around him that his neighbors published. <br> 
+•	Find technicians, engineers, teachers around him easily. <br> 
+•	Request any product he want around him. <br> 
+•	Request any skill he want around him. <br> 
+•	NeighborsBook will be as mediator between users. <br> 
+•	Every user will have a map that shows peoples, products he want around him. <br> 
 
 # Website pages:
 This page is viewed when a new user visits the website:
