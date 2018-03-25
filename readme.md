@@ -90,32 +90,24 @@ We used real-time notification system using Redis.
 
 # user-stuff page:
 At this page, the user can update stuff info, approve users to get this stuff.
-
+![image](https://user-images.githubusercontent.com/15262648/37874236-2d704c90-3034-11e8-89d7-d4ed4076a062.png)
 When the user clicks update this window is appear, so he can update stuff information:
-
-
-
-
+![image](https://user-images.githubusercontent.com/15262648/37874242-5a8b29c0-3034-11e8-95a5-2cd70b4176f6.png)
 Also, the user can approve his neighbor’s orders:
+![image](https://user-images.githubusercontent.com/15262648/37874244-63c1a8fc-3034-11e8-9b58-724eff6c9704.png)
 
-
-4.1.1.14 use-neighbors page:
+# use-neighbors page:
 At this page the user can see all his neighbors ordered based in distance:
+![image](https://user-images.githubusercontent.com/15262648/37874245-6a7b8604-3034-11e8-8fe6-cefad5d006d6.png)
 
-
-
-
-
-
-
-
- 	4.1.1.15 users profile page:
+# users profile page:
 At this page, the user can see his neighbor profile page, and they can chat with each other
+![image](https://user-images.githubusercontent.com/15262648/37874248-727a7d2e-3034-11e8-8f13-ef8b9e0bdb52.png)
 
-We implanted a full real-time shat using Redis. 
+* We implanted a full real-time shat using Redis. 
  
 
-	4.1.1.16 stuff preview page:
+# stuff preview page:
 At this page, the user can order the stuff, chat with his neighbor, get directed to the stuff location.
 
 
