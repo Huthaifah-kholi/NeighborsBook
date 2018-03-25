@@ -1,27 +1,314 @@
-# Laravel PHP Framework
+We started collecting the requirements of our project then we started with designing our system and determining the tools that will be used and after that, we designed our application database and then we start downloading laravel dependencies like composer and wamp server.
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Then after everything is installed correctly we downloaded our laravel app using composer by typing the following command: laravel new project via windows cmd.
+    
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+Then after downloading laravel app, we run laravel using the following command:
+“php artisan serve”
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Official Documentation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Then we configure our environment variables like database name and password
+	
+            
+## Website pages:
 
-## Contributing
+![image](https://user-images.githubusercontent.com/15262648/37873693-91ae0fbc-302a-11e8-992c-0e9e1cb9c2a4.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+This page is viewed when a new user visits the website:
 
-## Security Vulnerabilities
+ 
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## Register page:
 
-## License
+      In this page the user register in our website after typing the required information, the user enters his home location on the map and he can drag the marker exactly to his location on the map and the app will pick his location automatically. 
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+![image](https://user-images.githubusercontent.com/15262648/37873695-95f727b6-302a-11e8-8e83-e4f72ef60892.png)
+
+
+
+4.1.1.3 Login page:
+
+     The login page is used to authenticate the user to his profile after typing the email and password:
+
+![image](https://user-images.githubusercontent.com/15262648/37873696-989c287c-302a-11e8-94fb-d722ddb0e443.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.1.4 Home page:
+
+     This page contains a map that show markers for everyone around the user 
+
+![image](https://user-images.githubusercontent.com/15262648/37873698-9b3a5914-302a-11e8-9463-7ba5ce72f660.png)
+
+
+
+     The user can click on the marker to view the status of his neighbor:
+
+
+
+Also, he can see the returned and unreturned stuff around him:
+Basic information about stuff is viewed as the name of the stuff, owner name, type, and distance. 
+ 
+![image](https://user-images.githubusercontent.com/15262648/37873699-9e3ec12c-302a-11e8-9df3-5a78b84a91ed.png)
+
+
+
+
+
+
+He can also see the skills around him:
+
+We view the basic information name, free times.  
+ 
+
+Everything is categorized and the user just clicks in the category to view everything inside it:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.1.5 Categories page:
+
+    In this page we view the categories:
+
+DVDs:
+
+
+
+Sports:
+
+
+
+
+
+
+Books:
+
+
+
+4.1.1.6 Add stuff page:
+     At this page the user can add stuff to his neighbors:
+
+
+
+
+
+
+
+4.1.1.7 Add skill page:
+     At this page the user adds skills to share them with his neighbors: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1.1.7 Pick needs page:   
+     
+      At this page the user can tell his neighbors that he wants a stuff:
+
+
+
+4.1.1.8 Request skills page:   
+
+     At this page the user can request skills from his neighbors:
+
+
+4.1.1.9 Profile page: 
+
+At this page, we view all data related to the user, profile info, uploads, notifications and the user can add a profile picture and cover picture.
+    
+
+4.1.1.10 Profile info page:
+At this page, we view the profile info and the user can edit his info
+
+
+Here the user can edit his profile and submit changes:
+
+
+
+4.1.1.11 user uploads page:
+At this page, the user can see his uploads and the orders from his neighbors. 
+ 
+
+
+4.1.1.12 notifications page:
+At this page the user can see his notifications:
+A notification is sanded to the user in the following cases:
+1-If someone accepted his request.
+2-If someone around him requests a skill.
+3-If someone around him requests a stuff.
+
+We used real-time notification system using Redis. 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+4.1.1.13 user-stuff page:
+At this page, the user can update stuff info, approve users to get this stuff.
+
+When the user clicks update this window is appear, so he can update stuff information:
+
+
+
+
+Also, the user can approve his neighbor’s orders:
+
+
+4.1.1.14 use-neighbors page:
+At this page the user can see all his neighbors ordered based in distance:
+
+
+
+
+
+
+
+
+ 	4.1.1.15 users profile page:
+At this page, the user can see his neighbor profile page, and they can chat with each other
+
+We implanted a full real-time shat using Redis. 
+ 
+
+	4.1.1.16 stuff preview page:
+At this page, the user can order the stuff, chat with his neighbor, get directed to the stuff location.
+
+
+
+
+At this section, the user can get directed to the stuff location.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	4.1.1.17 thanks, page:
+This page is previewed when the user requests stuff:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2 Mobile Application:
+
+4.2.1 Sign in and home pages: 
+In the mobile app, the user needs to sign in to access the services that the app provides. When the user enters email and password automatically he will be redirected to home page. By default, home page shows the random stuff and skills around the user. Also, he can choose the categories of stuff and skills around him.
+
+                                                               
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.2.2 Add stuff and skill pages: 
+
+ If the user wants to add new stuff or skill.He can go to add a page by side menu. 
+
+
+The user can choose from the tab (stuff or skill).If the user chooses stuff then he must fill the following fields name, category, type (returned or unreturned stuff), deadline date if it is returned, details f about it and photo which is either from camera or gallery.  
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Another tab choice is “skill”, the user on this page must fill the following fields skill’s name, category, free time (days in week and time) and description.
+
+                       
